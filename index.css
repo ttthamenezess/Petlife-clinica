@@ -153,8 +153,7 @@ footer {
     padding: 64px 80px;
   }
   
-  footer img,
-  footer .titulo {
+  footer img, .footer .titulo {
     display: block;
     font-weight: 600;
     margin-bottom: 24px;
@@ -165,6 +164,7 @@ footer {
     display: block;
     margin-bottom: 16px;
     text-decoration: none;
+    max-width: 350px;
   }
   
   footer p {
